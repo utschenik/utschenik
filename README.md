@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @utschenik
-- 👀 I’m interested in PHP and Golang
+- 👀 I’m interested in Web Development with PHP and Golang
 - 🌱 I’m currently learning Software Architecture and Software Design
-- 📚 I’m looking to collaborate on anything
 
 <!---
 utschenik/utschenik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

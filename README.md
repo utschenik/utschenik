@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utschenik
-- 👀 I’m interested in PHP, Golang and everything that´s sports
+- 👀 I’m interested in PHP and Golang
 - 🌱 I’m currently learning Software Architecture and Software Design
 - 📚 I’m looking to collaborate on anything
 
